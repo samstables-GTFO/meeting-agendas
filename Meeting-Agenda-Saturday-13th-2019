@@ -1,0 +1,86 @@
+GTFO Agenda
+
+Location: GTFO! Meeting Room
+
+
+Date:
+14 Sept 2019 
+
+
+Time: 7:00AM PST
+
+
+Facilitator:
+Cinn, Sam, Teff, Cody, North, Wrenn, Lou, Keif
+
+
+Previous Minutes of Meeting
+Synopsis -
+
+Read by-
+Goals
+Urgent:
+Move from OVH to Digital Ocean
+Design specification documentation
+Discuss GO
+Near:
+Clean, updated vehicles table
+Clean, updated hubs table
+
+Medium range:
+
+
+
+Long range:
+
+
+
+Agenda items
+
+Introductions
+Guest participant this week is John Nagle, known in SL as Joe
+https://en.wikipedia.org/wiki/Nagle%27s_algorithm
+
+We will start our time together with brief self-introduction.
+
+
+Discuss pros and cons of using ‘go’
+Here are a couple of links to get you started
+https://golang.org/
+https://hackernoon.com/should-i-go-the-pros-and-cons-of-using-go-programming-language-8c1daf711e46.
+Design Specification Documentation
+Thanks to John, aka Joe (in SL) we have a start on a design spec for 2nd gen GTFO vehicles communicating with (other items)
+https://github.com/John-Nagle/lslutils/blob/master/work/vehicleinfomsgs.md
+
+Also, John shared a link to an example design spec document as a way for me to learn
+https://github.com/John-Nagle/lslutils/blob/master/npc/README.md
+
+
+Discussion/Brainstorm 2nd gen GTFO vehicle related ideas
+Scenarios of what could be done in 2nd gen GTFO (imagine you pull into a fuel station and some animesh station attendants come out to fuel your vehicle, air the tires, and wash your windshield. Or pull up to a dock and a container crane unloads, or land and park at an airport and a ground crew comes out to unload and load the plane, fuel it, etc.
+
+What would be entailed in making that happen? How would that change, add to, the data we already plan to collect for vehicles? How does a vehicle communicate with a loader currently? How do we want to change that? What else can we do with those changes?
+
+PLEASE DO ADD YOUR IDEAS HERE
+
+
+
+
+
+
+
+Miscellaneous
+Dumping idea of region crossing data collection. John (Joe) has logged thousands of region crossings and has discovered that the rest of the data which needs to be collected needs to be done server side, not client/viewer side.
+
+
+
+
+Mobile App
+
+Statuspage Usages
+
+
+
+
+Additional information
+Add additional instructions or comments here.
